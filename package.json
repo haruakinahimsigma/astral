@@ -1,0 +1,17 @@
+{
+  "name": "astral",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A fast, privacy-conscious browser shell with a Scramjet-based engine planned.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
