@@ -1,4 +1,7 @@
-# fly.toml app configuration file
+# fly.toml app configuration file generated for astral1 on 2026-11-02T04:18:28Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
 
 app = 'astral1'
 primary_region = 'iad'
